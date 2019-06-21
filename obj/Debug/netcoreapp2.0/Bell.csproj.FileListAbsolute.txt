@@ -1,0 +1,11 @@
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/Fuhrmeister/Projects/quantum_applications/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
