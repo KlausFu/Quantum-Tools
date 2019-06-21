@@ -9,23 +9,6 @@
         }
     }
 
-    operation BellTest (count: Int, initial: Result) : (Int, Int) {
-        mutable numOnes = 0;
-        using (qubit = Qubit()) {
-            for (test in 1..count) {
-                Set(initial, qubit);
-                let res = M (qubit);
-
-                if (res == One) {
-                    set numOnes += 1;
-                }
-            }
-            Set(Zero, qubit);
-        }
-
-        return (count-numOnes, numOnes);
-    }
-
     operation RandomGenerator (initial: Result) : Int {
         mutable result = 0;
         using (qubit = Qubit()) { 
